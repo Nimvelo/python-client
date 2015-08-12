@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Nimvelo
+example.py
