@@ -11,7 +11,7 @@ from setuptools import setup
 setup(
     name='nimvelo',
     description='Python 2.7 client library for the Nimvelo/Sipcentric API',
-    version='0.1.2',
+    version='0.1.3',
     url='https://github.com/Nimvelo/python-client',
     author='David Maitland',
     author_email='david.maitland@nimvelo.com',
@@ -19,5 +19,5 @@ setup(
     keywords='nimvelo sipcentric voip pbx sms sip',
     packages=['nimvelo', 'nimvelo/stream'],
     requires=['math', 'json', 'logging', 'time'],
-    install_requires=['requests', 'multiprocessing']
+    install_requires=['requests']
 )
