@@ -16,6 +16,8 @@ print nimvelo.sms.post(_from="0123", to="03301201200", body="Hello World!")
 sudo pip install nimvelo
 ```
 
+*You may need to install `simplejson` and `multiprocessing` if you don't have them already.*
+
 ### Manual method
 
 ```
