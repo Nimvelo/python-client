@@ -11,7 +11,7 @@ from setuptools import setup
 setup(
     name='nimvelo',
     description='Python 2.7 client library for the Nimvelo/Sipcentric API',
-    version='0.1.1',
+    version='0.1.2',
     url='https://github.com/Nimvelo/python-client',
     author='David Maitland',
     author_email='david.maitland@nimvelo.com',
