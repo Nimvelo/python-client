@@ -8,9 +8,10 @@
 import sys
 import math
 import requests
-import json
 import time
 import logging
+
+import simplejson as json
 
 from stream import Stream
 

@@ -7,9 +7,10 @@
 
 import multiprocessing
 import requests
-import json
 import time
 import logging
+
+import simplejson as json
 
 logger = logging.getLogger(__name__)
 
